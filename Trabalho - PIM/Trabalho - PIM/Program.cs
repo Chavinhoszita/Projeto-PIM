@@ -48,7 +48,7 @@ namespace Trabalho___PIM
             pf.pedido_Ver();
             Console.WriteLine();
 
-            Plant_Produção p_prod = new Plant_Produção("24/05/2024",5,7,3); //data, caixas frutas, caixas verduras, caixas alface_verdura
+            Plant_Produção p_prod = new Plant_Produção("24/05/2024",7,9,5); //data, caixas frutas, caixas verduras, caixas alface_verdura
             p_prod.plant_ProdInfo();
             p_prod.plant_maça(2);
             p_prod.plant_morango(2);

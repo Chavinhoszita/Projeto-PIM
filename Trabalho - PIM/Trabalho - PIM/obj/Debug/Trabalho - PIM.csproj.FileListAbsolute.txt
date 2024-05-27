@@ -42,3 +42,14 @@ C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240525T120352Z-001\Trabalho - PIM\Tra
 C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240525T120352Z-001\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho.30B5B213.Up2Date
 C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240525T120352Z-001\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.exe
 C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240525T120352Z-001\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.pdb
+C:\GitHubCoisas\Projeto-PIM\Trabalho - PIM\Trabalho - PIM\bin\Debug\Trabalho - PIM.exe.config
+C:\GitHubCoisas\Projeto-PIM\Trabalho - PIM\Trabalho - PIM\bin\Debug\Trabalho - PIM.exe
+C:\GitHubCoisas\Projeto-PIM\Trabalho - PIM\Trabalho - PIM\bin\Debug\Trabalho - PIM.pdb
+C:\GitHubCoisas\Projeto-PIM\Trabalho - PIM\Trabalho - PIM\bin\Debug\MetroFramework.Design.dll
+C:\GitHubCoisas\Projeto-PIM\Trabalho - PIM\Trabalho - PIM\bin\Debug\MetroFramework.dll
+C:\GitHubCoisas\Projeto-PIM\Trabalho - PIM\Trabalho - PIM\bin\Debug\MetroFramework.Fonts.dll
+C:\GitHubCoisas\Projeto-PIM\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.csproj.AssemblyReference.cache
+C:\GitHubCoisas\Projeto-PIM\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.csproj.CoreCompileInputs.cache
+C:\GitHubCoisas\Projeto-PIM\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho.30B5B213.Up2Date
+C:\GitHubCoisas\Projeto-PIM\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.exe
+C:\GitHubCoisas\Projeto-PIM\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.pdb
