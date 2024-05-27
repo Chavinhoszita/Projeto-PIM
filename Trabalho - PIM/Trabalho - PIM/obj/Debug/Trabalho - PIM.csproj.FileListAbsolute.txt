@@ -1,0 +1,44 @@
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240522T114220Z-001\Trabalho - PIM\Trabalho - PIM\bin\Debug\Trabalho - PIM.exe.config
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240522T114220Z-001\Trabalho - PIM\Trabalho - PIM\bin\Debug\Trabalho - PIM.exe
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240522T114220Z-001\Trabalho - PIM\Trabalho - PIM\bin\Debug\Trabalho - PIM.pdb
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240522T114220Z-001\Trabalho - PIM\Trabalho - PIM\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240522T114220Z-001\Trabalho - PIM\Trabalho - PIM\bin\Debug\MetroFramework.dll
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240522T114220Z-001\Trabalho - PIM\Trabalho - PIM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240522T114220Z-001\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.csproj.AssemblyReference.cache
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240522T114220Z-001\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240522T114220Z-001\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho.30B5B213.Up2Date
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240522T114220Z-001\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.exe
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240522T114220Z-001\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.pdb
+C:\Users\Winner\Downloads\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.csproj.AssemblyReference.cache
+C:\Users\Winner\Downloads\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.csproj.CoreCompileInputs.cache
+C:\Users\Winner\Downloads\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.exe
+C:\Users\Winner\Downloads\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.pdb
+C:\Users\Winner\Downloads\Trabalho - PIM\Trabalho - PIM\bin\Debug\Trabalho - PIM.exe.config
+C:\Users\Winner\Downloads\Trabalho - PIM\Trabalho - PIM\bin\Debug\Trabalho - PIM.exe
+C:\Users\Winner\Downloads\Trabalho - PIM\Trabalho - PIM\bin\Debug\Trabalho - PIM.pdb
+C:\Users\Winner\Downloads\Trabalho - PIM\Trabalho - PIM\bin\Debug\MetroFramework.Design.dll
+C:\Users\Winner\Downloads\Trabalho - PIM\Trabalho - PIM\bin\Debug\MetroFramework.dll
+C:\Users\Winner\Downloads\Trabalho - PIM\Trabalho - PIM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Winner\Downloads\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho.30B5B213.Up2Date
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240524T135919Z-001\Trabalho - PIM\Trabalho - PIM\bin\Debug\Trabalho - PIM.exe.config
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240524T135919Z-001\Trabalho - PIM\Trabalho - PIM\bin\Debug\Trabalho - PIM.exe
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240524T135919Z-001\Trabalho - PIM\Trabalho - PIM\bin\Debug\Trabalho - PIM.pdb
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240524T135919Z-001\Trabalho - PIM\Trabalho - PIM\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240524T135919Z-001\Trabalho - PIM\Trabalho - PIM\bin\Debug\MetroFramework.dll
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240524T135919Z-001\Trabalho - PIM\Trabalho - PIM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240524T135919Z-001\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.csproj.AssemblyReference.cache
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240524T135919Z-001\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240524T135919Z-001\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho.30B5B213.Up2Date
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240524T135919Z-001\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.exe
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240524T135919Z-001\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.pdb
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240525T120352Z-001\Trabalho - PIM\Trabalho - PIM\bin\Debug\Trabalho - PIM.exe.config
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240525T120352Z-001\Trabalho - PIM\Trabalho - PIM\bin\Debug\Trabalho - PIM.exe
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240525T120352Z-001\Trabalho - PIM\Trabalho - PIM\bin\Debug\Trabalho - PIM.pdb
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240525T120352Z-001\Trabalho - PIM\Trabalho - PIM\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240525T120352Z-001\Trabalho - PIM\Trabalho - PIM\bin\Debug\MetroFramework.dll
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240525T120352Z-001\Trabalho - PIM\Trabalho - PIM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240525T120352Z-001\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.csproj.AssemblyReference.cache
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240525T120352Z-001\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240525T120352Z-001\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho.30B5B213.Up2Date
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240525T120352Z-001\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.exe
+C:\Users\Ryzen5\Downloads\Trabalho - PIM-20240525T120352Z-001\Trabalho - PIM\Trabalho - PIM\obj\Debug\Trabalho - PIM.pdb
