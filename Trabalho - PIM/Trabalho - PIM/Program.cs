@@ -76,9 +76,6 @@ namespace Trabalho___PIM
             Console.WriteLine();
             c_prod.estoque_Colheita();
             Console.WriteLine();
-
-            
-
         }
     }
 }
